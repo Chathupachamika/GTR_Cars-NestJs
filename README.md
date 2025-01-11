@@ -19,6 +19,32 @@
     <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
   <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
 </p>
+
+# GTR Cars - NestJS 🚗
+
+A progressive Node.js application built with the NestJS framework for creating efficient and scalable server-side applications. This repository serves as the backend for managing car-related functionalities in the **GTR Cars** project.
+
+---
+
+## 🛠️ Features
+
+- **Car Management**: Add, update, delete, and fetch car details.
+- **User Authentication**: Secure login and role-based access control.
+- **API Endpoints**: Comprehensive REST APIs for frontend integration.
+- **Scalable Architecture**: Modular and maintainable code structure.
+- **Optimized Performance**: Efficient handling of server-side operations.
+
+---
+
+## 🏗️ Project Setup
+
+Follow these steps to set up and run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Chathupachamika/GTR_Cars-NestJs.git
+   cd GTR_Cars-NestJs
+
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
